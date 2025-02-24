@@ -18011,7 +18011,7 @@ header
   border-radius: 100px;
   box-shadow: 0 6px 12px rgba(106, 115, 129, 0.16),
     0 3px 8px rgba(87, 102, 117, 0.06);
-  background-color: #00bfff
+  background-color: #00daf7;
   color: #fff;
   font-size: 16px;
   -moz-transition-duration: 2s;
@@ -18019,7 +18019,7 @@ header
   cursor: pointer;
 }
 .welcome-mat-cta:hover {
-  background-color: #386b00;
+  background-color: #e21e61;
 }
 .welcome-mat-cta .container-cta {
   display: -webkit-flex;
